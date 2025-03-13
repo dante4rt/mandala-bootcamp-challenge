@@ -29,7 +29,6 @@ Go to **Participant Registration** section and register to be the workshop parti
 
 ```
 | 🦄 | Name | Github username | Your current occupation |
-| 1 | Muhammad Ramadhani | Dante4rt | Software Engineer |
 ```
 
 - Step 5: `Commit` your code and push to the forked Github repository
@@ -95,3 +94,11 @@ OpenGuild is a builder-driven community centered around Polkadot. OpenGuild is b
 - **Website:** [OpenGuild Website](https://openguild.wtf/)
 - **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
 - **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
+
+## Participant Registration
+
+Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
+
+| Emoji | Name            | Github Username                                       | Occupations              |
+| ----- | --------------- | ----------------------------------------------------- | ------------------------ |
+|   🦁  | Muhammad Ramadhani            | [Dante4rt](https://github.com/dante4rt)                 | Software Engineer                   |
