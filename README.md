@@ -29,6 +29,7 @@ Go to **Participant Registration** section and register to be the workshop parti
 
 ```
 | 🦄 | Name | Github username | Your current occupation |
+| 1 | Muhammad Ramadhani | Dante4rt | Software Engineer |
 ```
 
 - Step 5: `Commit` your code and push to the forked Github repository
